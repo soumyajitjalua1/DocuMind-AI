@@ -1,4 +1,5 @@
-# DocuMind-AI
+# DocuMind-AI:using deepseek r1
+
 
 DocuMind AI is an intelligent document assistant that allows users to interact with PDF documents using natural language queries. Built with Streamlit and powered by the Deepseek language model through Ollama, it provides an intuitive interface for document analysis and question-answering.
 
