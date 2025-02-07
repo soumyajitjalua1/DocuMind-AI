@@ -25,7 +25,7 @@ Before running DocuMind AI, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
- git clone https://github.com yourusername/documind-ai.git
+ git clone https://github.com/soumyajitjalua1/DocuMind-AI-Using-DeepSeek.git
  cd documind-ai
 ```
 
@@ -113,7 +113,7 @@ http://localhost:8501
 
 ```bash
 documind-ai/
-├── app.py              # Main application file
+├── deepsheek.py              # Main application file
 ├── requirements.txt    # Python dependencies
 ├── document_store/    # Directory for storing uploaded PDFs
 │   └── pdfs/
